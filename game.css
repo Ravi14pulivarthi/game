@@ -1,0 +1,347 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.game{
+    background: url(../Photos/futuristic-bg.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+nav{
+    position: sticky;
+    top: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(255, 253, 253);
+    padding: 10px 20px;
+}
+.one0{
+    position: absolute;
+    left: 50px;
+ tp: 20px;
+}
+.one1{
+    float: right;
+    position: absolute;
+    right: 400px;
+    top: 25px;
+}
+.one2{
+    color:white;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+.one2 button{
+    width: 130px;
+    height: 40px;
+    background-color: rgb(219, 90, 43);
+    border: none;
+    color: white;
+}
+hr{
+    width: 40px;
+}
+p{
+    color: rgb(255, 255, 255);
+}
+.one3{
+ 
+position: absolute;
+left: 1050px;
+bottom: 200px;
+    
+}
+.one3 p{
+
+position: absolute;
+top: 130px;
+}
+p img{
+    padding-left: 80px;
+}
+center{
+    margin-top: 20px;
+}
+.cont1{
+    background-color: transparent;
+    backdrop-filter: blur(6px);
+    width: 210px;
+    height: 110px;
+    color: white;
+    position: absolute;
+bottom: 5px;
+}
+.cont1 button{
+    width: 90px;
+    height: 30px;
+  background-color:orangered;
+  color: white;
+  border: none;
+
+}
+.cont2{
+    background-color: transparent;
+    backdrop-filter: blur(6px);
+    width: 210px;
+    height: 110px;
+    color: white;
+    position: absolute;
+   bottom: 5px;
+   
+  
+}
+.cont2 button{
+    width: 90px;
+    height: 30px;
+  background-color:orangered;
+  color: white;
+  border: none;
+
+}
+.cont3{
+    background-color: transparent;
+    backdrop-filter: blur(6px);
+    width: 210px;
+    height: 110px;
+    color: white;
+    position: absolute;
+    bottom: 5px;
+  
+}
+.cont3 button{
+    width: 90px;
+    height: 30px;
+  background-color:orangered;
+  color: white;
+  border: none;
+
+}
+.cont4{
+    background-color: transparent;
+    backdrop-filter: blur(6px);
+    width: 210px;
+    height: 110px;
+    color: white;
+    position: absolute;
+    bottom: 5px;
+  
+}
+.cont4 button{
+    width: 90px;
+    height: 30px;
+  background-color:orangered;
+  color: white;
+  border: none;
+}
+.con{
+    position: relative;
+  
+}
+.container{
+    display: flex;
+ padding-left: 120px;
+    gap: 20px;
+
+  
+}
+.cont11{
+    
+    position: absolute;
+    left: 20px;
+}
+.cont22{
+    position: absolute;
+    left: 25px
+}
+.cont33{
+    position: absolute;
+    left: 25px
+}
+.cont44{
+    position: absolute;
+    left: 25px
+}
+.three1 img{
+    width: 400px;
+    height: 300px;
+}
+.three2 p{
+    color: black;
+
+}
+.three {
+    position: relative;
+    font-size: 16px;
+}
+.three2 {
+    
+    position: absolute;
+    left: 600px;
+    top: 180px;
+
+}
+.three1 img{
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
+.three2 button {
+    
+   width: 130px;
+   height: 30px;
+   background-color: orangered;
+   color: white;
+   border: none;
+
+}
+
+.four2{
+    border: 1px solid;
+    border: none;
+    width: 40px;
+    height: 30px;
+    background-color: rgb(222, 191, 180);
+}
+.four2 img{
+  
+ margin-top: 14px;
+}
+.four3{
+    border: 1px solid;
+    border: none;
+    width: 40px;
+    height: 30px;
+    background-color: rgb(241, 80, 22);
+}
+.four3 img{
+    margin-top: 14px;
+    margin-left: 5px;
+ 
+}
+.fourflex{
+    display: flex;
+    gap: 10px;
+
+    position: absolute;
+    left: 1050px;
+    top: 1600px;
+   
+}
+.four1 h1{
+    position: absolute;
+    left: 100px;
+}
+.five { 
+    display: flex;
+      gap:40px ; 
+      padding-left: 200px;
+      font-size: 15px;
+   
+}
+.five1 img{
+    width: 200px;
+    height: 200px;
+}
+.five2{
+    margin-right: 10px;
+}
+.five2 p{
+    color: orangered;
+
+}
+.five2 button{
+     width: 100px;
+     height: 30px;
+     background-color: orangered;
+     color: white;
+     border: none;
+}
+.six{
+    background-color: rgb(8, 8, 8);
+    padding-top: 10px;
+    height: auto;
+    position: relative;
+}
+.six img{
+   width: 300px;
+}
+center h1{
+    color: white;
+    padding-top: 20px;
+}
+.six1{
+   position: absolute;
+   top: 150px;
+   left: 100px;
+}
+.six2{
+    position: absolute;
+    top: 350px;
+    left: 420px;
+    
+ }
+ .six3{
+    position: absolute;
+    top: 550px;
+    left: 740px;
+ }
+ .six p{
+    float: right;
+    padding-right: 250px;
+    padding-top: 100px;
+ }
+ .seven{
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.6)),url( ../Photos/Rectangle\ 606.png );
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    width: 100%;
+  
+
+ }
+ .seven1{
+    color: white; 
+  text-align: center;
+  padding-top: 90px;
+
+ }
+ .seven1 button{
+    width: 100px;
+    height: 30px;
+    background-color: orangered;
+    color: white;
+    border: none;
+ }
+ .eight{
+    background-color: rgb(8, 8, 8);
+   
+    height: 50vh;
+    display: flex;
+    gap: 60px;
+    padding-left:200px ;
+    padding-top: 50px;
+  
+
+ }
+ .eight2{
+    display: flex;
+    gap: 80px;
+
+ }
+ .eight2 b{
+
+    color: white;
+ }
+
+  
+
+
+
+
+
+
+
